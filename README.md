@@ -5,7 +5,11 @@
 
 Tengo 19 años, Soy Programador FullStack orientado en el **Front-End** y **Back-End**.
 
-Desde que termine la secundaria me llamo muchisimo la atención meterme al mundo de la programación. Sin duda una de las mejores experiencias y decisiones que llegue a tomar en el plazo de mi vida.. 
+Cuando termine la secundaria me llamo muchísimo la atención meterme al mundo de la programación. Sin duda una de las mejores experiencias y decisiones que llegue a tomar en el plazo de mi vida..
+
+Me gustaría poder conseguir trabajo de lo que estudio y de lo que me gusta (Desarrollador web). Me Capacite en el bootcamp de Henry en el cual aprendí todos mis conocimientos.
+
+En cuanto a mi dirección futura, estoy enfocado en seguir aprendiendo conocimiento de este maravilloso mundo. Mi objetivo es lograr conseguir trabajo, amistades, experiencia. 
 
 # Mis Habilidades blandas
 
