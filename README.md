@@ -7,6 +7,18 @@ Tengo 19 años, Soy Programador FullStack orientado en el **Front-End** y **Back
 
 Desde que termine la secundaria me llamo muchisimo la atención meterme al mundo de la programación. Sin duda una de las mejores experiencias y decisiones que llegue a tomar en el plazo de mi vida.. 
 
+# Mis Habilidades blandas
+
+- **Autodidacta**
+- **Comunicativo**
+- **Curioso**
+- **Aprendizaje Ágil**
+- **Creatividad**
+- **Empatía**
+- **Sociable**
+- **Versátil**
+
+
 ## ¿Qué tecnologias uso?
 Curse un **Bootcamp** que me permitio adquierir conocimiento y experiencia fundamental para despegar  🚀  Por lo que las principales tecnologías que manejo son:
 
