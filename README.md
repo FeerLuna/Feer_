@@ -44,7 +44,7 @@ Entre otras herramientas, tambien tengo un poco de conocimiento en **Photoshop**
 Juntos podemos realizar un gran proyecto que cambie la vida de miles de personas. 
 
 - Correo electrónico: ferfuego46lun@gmail.com
-- LinkedIn: Fernando Luna https://www.linkedin.com/in/fernando-luna-696637262/
+- LinkedIn: Fernando Luna https://www.linkedin.com/in/fernando-joel-luna/
 - Discord: Feer#4205
 - Instragram: @fer_.aguero21
 
